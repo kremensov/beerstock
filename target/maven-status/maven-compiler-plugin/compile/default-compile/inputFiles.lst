@@ -1,0 +1,14 @@
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/config/SwaggerConfig.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/BeerstockApplication.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/service/BeerService.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/exception/BeerNotFoundException.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/controller/BeerControllerDocs.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/dto/BeerDTO.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/exception/BeerStockExceededException.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/controller/BeerController.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/mapper/BeerMapper.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/enums/BeerType.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/entity/Beer.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/exception/BeerAlreadyRegisteredException.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/dto/QuantityDTO.java
+/home/kremensov/beerstock/beer_api_digital_innovation_one/src/main/java/one/digitalinnovation/beerstock/repository/BeerRepository.java
